@@ -1,0 +1,1 @@
+## Example of Microfrontend with Webpack
